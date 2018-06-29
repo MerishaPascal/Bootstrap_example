@@ -1,0 +1,54 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	background-color: white;
+}
+p{
+	font-size: 20px
+}
+li{
+	font-size: 20px;
+}
+
+a{
+	color: red
+}
+
+h2{
+	color: #5F9EB5;
+	font-size: 20px;
+	font-weight:bold;
+
+}
+
+h1{
+	color:black;
+	font-weight:bold;
+	font size: 40px;
+}
+
+h3{
+	font-size: 18px;
+	color: #81C6C1;
+	font-weight:bold;
+}
+.navbar-default{
+	background-color: #5F9EB5;
+    border-color: #B08212;
+}
+.black{
+	color: black;
+}
+
+#black{
+	color:black;
+}
+
+#hero{
+	height: 400px;
+	background-image: url(https://orig00.deviantart.net/f257/f/2013/337/5/9/beautiful_ocean_sunset_by_vitaly_sokol-d6wl2p2.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+
